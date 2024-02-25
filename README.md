@@ -21,3 +21,5 @@ SpringBoot2.1.3 + Maven3.5.4 + Redis + lombok(插件)
 ```
 
 自定义注解+AOP方式实现。
+
+![image](https://github.com/webVueBlog/Springboot-Redis-IpLimiter/assets/59645426/216ec5b8-9eae-4d60-bf2d-f29e4d2a2b88)
